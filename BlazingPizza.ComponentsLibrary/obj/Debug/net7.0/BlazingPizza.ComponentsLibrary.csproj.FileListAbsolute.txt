@@ -1,0 +1,44 @@
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\bin\Debug\net7.0\BlazingPizza.ComponentsLibrary.staticwebassets.runtime.json
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\bin\Debug\net7.0\BlazingPizza.ComponentsLibrary.deps.json
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\bin\Debug\net7.0\BlazingPizza.ComponentsLibrary.dll
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\bin\Debug\net7.0\BlazingPizza.ComponentsLibrary.pdb
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\BlazingPizza.ComponentsLibrary.csproj.AssemblyReference.cache
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\BlazingPizza.ComponentsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\BlazingPizza.ComponentsLibrary.AssemblyInfoInputs.cache
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\BlazingPizza.ComponentsLibrary.AssemblyInfo.cs
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\BlazingPizza.ComponentsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\BlazingPizza.ComponentsLibrary.sourcelink.json
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\staticwebassets\msbuild.BlazingPizza.ComponentsLibrary.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazingPizza.ComponentsLibrary.props
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazingPizza.ComponentsLibrary.props
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazingPizza.ComponentsLibrary.props
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\scopedcss\bundle\BlazingPizza.ComponentsLibrary.styles.css
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\BlazingPizza.ComponentsLibrary.dll
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\refint\BlazingPizza.ComponentsLibrary.dll
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\BlazingPizza.ComponentsLibrary.pdb
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\ref\BlazingPizza.ComponentsLibrary.dll
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\bin\Debug\net7.0\BlazingPizza.ComponentsLibrary.staticwebassets.runtime.json
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\bin\Debug\net7.0\BlazingPizza.ComponentsLibrary.deps.json
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\bin\Debug\net7.0\BlazingPizza.ComponentsLibrary.dll
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\bin\Debug\net7.0\BlazingPizza.ComponentsLibrary.pdb
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\BlazingPizza.ComponentsLibrary.csproj.AssemblyReference.cache
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\BlazingPizza.ComponentsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\BlazingPizza.ComponentsLibrary.AssemblyInfoInputs.cache
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\BlazingPizza.ComponentsLibrary.AssemblyInfo.cs
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\BlazingPizza.ComponentsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\BlazingPizza.ComponentsLibrary.sourcelink.json
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\staticwebassets\msbuild.BlazingPizza.ComponentsLibrary.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazingPizza.ComponentsLibrary.props
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazingPizza.ComponentsLibrary.props
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazingPizza.ComponentsLibrary.props
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\scopedcss\bundle\BlazingPizza.ComponentsLibrary.styles.css
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\BlazingPizza.ComponentsLibrary.dll
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\refint\BlazingPizza.ComponentsLibrary.dll
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\BlazingPizza.ComponentsLibrary.pdb
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\ref\BlazingPizza.ComponentsLibrary.dll

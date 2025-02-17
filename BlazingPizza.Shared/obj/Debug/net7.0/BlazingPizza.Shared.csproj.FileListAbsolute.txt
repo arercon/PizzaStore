@@ -1,0 +1,34 @@
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\net7.0\BlazingPizza.ComponentsLibrary.staticwebassets.runtime.json
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\net7.0\BlazingPizza.Shared.deps.json
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\net7.0\BlazingPizza.Shared.dll
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\net7.0\BlazingPizza.Shared.pdb
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\net7.0\BlazingPizza.ComponentsLibrary.dll
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\net7.0\BlazingPizza.ComponentsLibrary.pdb
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.csproj.AssemblyReference.cache
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.AssemblyInfoInputs.cache
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.AssemblyInfo.cs
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.csproj.CoreCompileInputs.cache
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.sourcelink.json
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\BlazingP.D86C6CFB.Up2Date
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.dll
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\refint\BlazingPizza.Shared.dll
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.pdb
+C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\ref\BlazingPizza.Shared.dll
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\net7.0\BlazingPizza.ComponentsLibrary.staticwebassets.runtime.json
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\net7.0\BlazingPizza.Shared.deps.json
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\net7.0\BlazingPizza.Shared.dll
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\net7.0\BlazingPizza.Shared.pdb
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\net7.0\BlazingPizza.ComponentsLibrary.dll
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\net7.0\BlazingPizza.ComponentsLibrary.pdb
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.csproj.AssemblyReference.cache
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.AssemblyInfoInputs.cache
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.AssemblyInfo.cs
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.csproj.CoreCompileInputs.cache
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.sourcelink.json
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\BlazingP.D86C6CFB.Up2Date
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.dll
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\refint\BlazingPizza.Shared.dll
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.pdb
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net7.0\ref\BlazingPizza.Shared.dll

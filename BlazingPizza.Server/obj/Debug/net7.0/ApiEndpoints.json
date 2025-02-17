@@ -1,0 +1,128 @@
+[
+  {
+    "ContainingType": "BlazingPizza.Server.PizzaApiExtensions\u002B\u003C\u003Ec",
+    "Method": "\u003CMapPizzaApi\u003Eb__0_0",
+    "RelativePath": "notifications/subscribe",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "subscription",
+        "Type": "BlazingPizza.NotificationSubscription",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BlazingPizza.Server.OrdersController",
+    "Method": "GetOrders",
+    "RelativePath": "orders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[BlazingPizza.OrderWithStatus, BlazingPizza.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BlazingPizza.Server.OrdersController",
+    "Method": "PlaceOrder",
+    "RelativePath": "orders",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "order",
+        "Type": "BlazingPizza.Order",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BlazingPizza.Server.OrdersController",
+    "Method": "GetOrderWithStatus",
+    "RelativePath": "orders/{orderId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BlazingPizza.OrderWithStatus",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BlazingPizza.Server.PizzaApiExtensions\u002B\u003C\u003Ec",
+    "Method": "\u003CMapPizzaApi\u003Eb__0_1",
+    "RelativePath": "specials",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BlazingPizza.Server.PizzaApiExtensions\u002B\u003C\u003Ec",
+    "Method": "\u003CMapPizzaApi\u003Eb__0_2",
+    "RelativePath": "toppings",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
