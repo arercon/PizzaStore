@@ -108,6 +108,17 @@ C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Ser
 C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.pdb
 C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.genruntimeconfig.cache
 C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\obj\Debug\net7.0\ref\BlazingPizza.Server.dll
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.csproj.AssemblyReference.cache
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.AssemblyInfoInputs.cache
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.AssemblyInfo.cs
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.csproj.CoreCompileInputs.cache
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.RazorAssemblyInfo.cache
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.RazorAssemblyInfo.cs
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.sourcelink.json
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\bin\Debug\net7.0\BlazingPizza.ComponentsLibrary.staticwebassets.runtime.json
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\bin\Debug\net7.0\BlazingPizza.Client.staticwebassets.runtime.json
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\bin\Debug\net7.0\appsettings.json
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
@@ -118,8 +129,6 @@ C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPi
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\bin\Debug\net7.0\BlazingPizza.ComponentsLibrary.staticwebassets.runtime.json
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\bin\Debug\net7.0\BlazingPizza.Client.staticwebassets.runtime.json
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\bin\Debug\net7.0\BlazingPizza.Server.staticwebassets.runtime.json
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\bin\Debug\net7.0\BlazingPizza.Server.exe
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\bin\Debug\net7.0\BlazingPizza.Server.deps.json
@@ -194,16 +203,7 @@ C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPi
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\bin\Debug\net7.0\BlazingPizza.Client.pdb
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\bin\Debug\net7.0\BlazingPizza.Shared.pdb
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\bin\Debug\net7.0\BlazingPizza.ComponentsLibrary.pdb
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.csproj.AssemblyReference.cache
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.AssemblyInfoInputs.cache
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.AssemblyInfo.cs
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.csproj.CoreCompileInputs.cache
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.RazorAssemblyInfo.cache
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.RazorAssemblyInfo.cs
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\obj\Debug\net7.0\BlazingPizza.Server.sourcelink.json
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\obj\Debug\net7.0\staticwebassets.development.json
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Server\obj\Debug\net7.0\staticwebassets\msbuild.BlazingPizza.Server.Microsoft.AspNetCore.StaticWebAssets.props

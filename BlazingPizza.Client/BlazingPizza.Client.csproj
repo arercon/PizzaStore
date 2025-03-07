@@ -7,10 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Remove="Shared\AddressEditor.razor" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="$(BlazorVersion)" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Authentication" Version="$(BlazorVersion)" />
     <PackageReference Include="Microsoft.Extensions.Http" Version="$(AspNetCoreVersion)" />
@@ -20,18 +16,6 @@
   <ItemGroup>
     <ProjectReference Include="..\BlazingPizza.ComponentsLibrary\BlazingPizza.ComponentsLibrary.csproj" />
     <ProjectReference Include="..\BlazingPizza.Shared\BlazingPizza.Shared.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <UpToDateCheckInput Remove="Shared\AddressEditor.razor" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <_ContentIncludedByDefault Remove="Shared\AddressEditor.razor" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="Shared\AddressEditor.razor" />
   </ItemGroup>
   
 </Project>

@@ -42,6 +42,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJEZXRhaWxzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/janne/Visual Studio/BlazorWorkshop/save-points/00-get-started/BlazingPizza.Client/Shared/AddressEditor.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEFkZHJlc3NFZGl0b3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/janne/Visual Studio/BlazorWorkshop/save-points/00-get-started/BlazingPizza.Client/Shared/ConfiguredPizzaItem.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbmZpZ3VyZWRQaXp6YUl0ZW0ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

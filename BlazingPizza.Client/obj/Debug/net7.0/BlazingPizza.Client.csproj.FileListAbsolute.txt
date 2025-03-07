@@ -852,6 +852,20 @@ C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Cli
 C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\obj\Debug\net7.0\compressed\oizxvw4uap.gz
 C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\obj\Debug\net7.0\compressed\5gjosur6ei.gz
 C:\Users\janne\VSCode\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\obj\Debug\net7.0\compressed\tamj4wlqq7.gz
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\obj\Debug\net7.0\BlazingPizza.Client.csproj.AssemblyReference.cache
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\obj\Debug\net7.0\BlazingPizza.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\obj\Debug\net7.0\BlazingPizza.Client.AssemblyInfoInputs.cache
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\obj\Debug\net7.0\BlazingPizza.Client.AssemblyInfo.cs
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\obj\Debug\net7.0\BlazingPizza.Client.csproj.CoreCompileInputs.cache
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\obj\Debug\net7.0\BlazingPizza.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\obj\Debug\net7.0\BlazingPizza.Client.sourcelink.json
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\BlazingPizza.Client.dll
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\BlazingPizza.Client.pdb
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\BlazingPizza.ComponentsLibrary.dll
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\BlazingPizza.ComponentsLibrary.pdb
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\BlazingPizza.Shared.dll
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\BlazingPizza.Shared.pdb
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\blazor.boot.json
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.19.f1o7ezl1ro.js
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.timezones.blat
@@ -1068,6 +1082,7 @@ C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPi
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\BlazingPizza.Shared.dll.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Quic.dll.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
@@ -1076,6 +1091,7 @@ C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPi
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\BlazingPizza.Shared.pdb.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\System.Data.dll.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.dll.gz
@@ -1131,6 +1147,7 @@ C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPi
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\System.Data.Common.dll.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.dll.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\BlazingPizza.Client.dll.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\System.Memory.dll.gz
@@ -1176,6 +1193,7 @@ C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPi
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\BlazingPizza.ComponentsLibrary.dll.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\System.Configuration.dll.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.dll.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll.gz
@@ -1214,13 +1232,16 @@ C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPi
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebClient.dll.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\blazor.boot.json.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Thread.dll.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Requests.dll.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\BlazingPizza.Client.pdb.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\BlazingPizza.ComponentsLibrary.pdb.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.dll.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Reader.dll.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
@@ -1254,20 +1275,6 @@ C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPi
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.dll.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\BlazingPizza.Client.dll
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\BlazingPizza.Client.pdb
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\BlazingPizza.ComponentsLibrary.dll
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\BlazingPizza.ComponentsLibrary.pdb
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\BlazingPizza.Shared.dll
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\BlazingPizza.Shared.pdb
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\blazor.boot.json
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\BlazingPizza.Shared.dll.gz
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\BlazingPizza.Shared.pdb.gz
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\BlazingPizza.Client.dll.gz
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\BlazingPizza.ComponentsLibrary.dll.gz
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\blazor.boot.json.gz
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\BlazingPizza.Client.pdb.gz
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\wwwroot\_framework\BlazingPizza.ComponentsLibrary.pdb.gz
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\BlazingPizza.ComponentsLibrary.staticwebassets.runtime.json
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\BlazingPizza.Client.staticwebassets.runtime.json
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\BlazingPizza.Client.dll
@@ -1476,13 +1483,6 @@ C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPi
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\BlazingPizza.Shared.dll
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\BlazingPizza.ComponentsLibrary.pdb
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\bin\Debug\net7.0\BlazingPizza.Shared.pdb
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\obj\Debug\net7.0\BlazingPizza.Client.csproj.AssemblyReference.cache
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\obj\Debug\net7.0\BlazingPizza.Client.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\obj\Debug\net7.0\BlazingPizza.Client.AssemblyInfoInputs.cache
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\obj\Debug\net7.0\BlazingPizza.Client.AssemblyInfo.cs
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\obj\Debug\net7.0\BlazingPizza.Client.csproj.CoreCompileInputs.cache
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\obj\Debug\net7.0\BlazingPizza.Client.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\obj\Debug\net7.0\BlazingPizza.Client.sourcelink.json
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\obj\Debug\net7.0\blazor.build.boot-extension.json
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\obj\Debug\net7.0\blazor.boot.json
 C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.Client\obj\Debug\net7.0\staticwebassets.build.json
