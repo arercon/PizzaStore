@@ -3545,17 +3545,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\janne\\Visual Studio\\BlazorWorkshop\\save-points\\00-get-started\\BlazingPizza.Server\\BlazingPizza.Server.csproj",
+      "projectUniqueName": "C:\\Users\\janne\\Visual Studio\\PizzaStore\\BlazingPizza.Server\\BlazingPizza.Server.csproj",
       "projectName": "BlazingPizza.Server",
-      "projectPath": "C:\\Users\\janne\\Visual Studio\\BlazorWorkshop\\save-points\\00-get-started\\BlazingPizza.Server\\BlazingPizza.Server.csproj",
+      "projectPath": "C:\\Users\\janne\\Visual Studio\\PizzaStore\\BlazingPizza.Server\\BlazingPizza.Server.csproj",
       "packagesPath": "C:\\Users\\janne\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\janne\\Visual Studio\\BlazorWorkshop\\save-points\\00-get-started\\BlazingPizza.Server\\obj\\",
+      "outputPath": "C:\\Users\\janne\\Visual Studio\\PizzaStore\\BlazingPizza.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\janne\\Visual Studio\\BlazorWorkshop\\NuGet.Config",
+        "C:\\Users\\janne\\Visual Studio\\PizzaStore\\NuGet.Config",
         "C:\\Users\\janne\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -3571,11 +3571,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\janne\\Visual Studio\\BlazorWorkshop\\save-points\\00-get-started\\BlazingPizza.Client\\BlazingPizza.Client.csproj": {
-              "projectPath": "C:\\Users\\janne\\Visual Studio\\BlazorWorkshop\\save-points\\00-get-started\\BlazingPizza.Client\\BlazingPizza.Client.csproj"
+            "C:\\Users\\janne\\Visual Studio\\PizzaStore\\BlazingPizza.Client\\BlazingPizza.Client.csproj": {
+              "projectPath": "C:\\Users\\janne\\Visual Studio\\PizzaStore\\BlazingPizza.Client\\BlazingPizza.Client.csproj"
             },
-            "C:\\Users\\janne\\Visual Studio\\BlazorWorkshop\\save-points\\00-get-started\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj": {
-              "projectPath": "C:\\Users\\janne\\Visual Studio\\BlazorWorkshop\\save-points\\00-get-started\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj"
+            "C:\\Users\\janne\\Visual Studio\\PizzaStore\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj": {
+              "projectPath": "C:\\Users\\janne\\Visual Studio\\PizzaStore\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj"
             }
           }
         }

@@ -1,43 +1,43 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\janne\\Visual Studio\\BlazorWorkshop\\save-points\\00-get-started\\BlazingPizza.ComponentsLibrary\\wwwroot\\deliveryMap.js",
+      "Id": "C:\\Users\\janne\\Visual Studio\\PizzaStore\\BlazingPizza.ComponentsLibrary\\wwwroot\\deliveryMap.js",
       "PackagePath": "staticwebassets\\deliveryMap.js"
     },
     {
-      "Id": "C:\\Users\\janne\\Visual Studio\\BlazorWorkshop\\save-points\\00-get-started\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers-2x.png",
+      "Id": "C:\\Users\\janne\\Visual Studio\\PizzaStore\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers-2x.png",
       "PackagePath": "staticwebassets\\leaflet\\images\\layers-2x.png"
     },
     {
-      "Id": "C:\\Users\\janne\\Visual Studio\\BlazorWorkshop\\save-points\\00-get-started\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers.png",
+      "Id": "C:\\Users\\janne\\Visual Studio\\PizzaStore\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers.png",
       "PackagePath": "staticwebassets\\leaflet\\images\\layers.png"
     },
     {
-      "Id": "C:\\Users\\janne\\Visual Studio\\BlazorWorkshop\\save-points\\00-get-started\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon-2x.png",
+      "Id": "C:\\Users\\janne\\Visual Studio\\PizzaStore\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon-2x.png",
       "PackagePath": "staticwebassets\\leaflet\\images\\marker-icon-2x.png"
     },
     {
-      "Id": "C:\\Users\\janne\\Visual Studio\\BlazorWorkshop\\save-points\\00-get-started\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon.png",
+      "Id": "C:\\Users\\janne\\Visual Studio\\PizzaStore\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon.png",
       "PackagePath": "staticwebassets\\leaflet\\images\\marker-icon.png"
     },
     {
-      "Id": "C:\\Users\\janne\\Visual Studio\\BlazorWorkshop\\save-points\\00-get-started\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-shadow.png",
+      "Id": "C:\\Users\\janne\\Visual Studio\\PizzaStore\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-shadow.png",
       "PackagePath": "staticwebassets\\leaflet\\images\\marker-shadow.png"
     },
     {
-      "Id": "C:\\Users\\janne\\Visual Studio\\BlazorWorkshop\\save-points\\00-get-started\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\leaflet.css",
+      "Id": "C:\\Users\\janne\\Visual Studio\\PizzaStore\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\leaflet.css",
       "PackagePath": "staticwebassets\\leaflet\\leaflet.css"
     },
     {
-      "Id": "C:\\Users\\janne\\Visual Studio\\BlazorWorkshop\\save-points\\00-get-started\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\leaflet.js",
+      "Id": "C:\\Users\\janne\\Visual Studio\\PizzaStore\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\leaflet.js",
       "PackagePath": "staticwebassets\\leaflet\\leaflet.js"
     },
     {
-      "Id": "C:\\Users\\janne\\Visual Studio\\BlazorWorkshop\\save-points\\00-get-started\\BlazingPizza.ComponentsLibrary\\wwwroot\\localStorage.js",
+      "Id": "C:\\Users\\janne\\Visual Studio\\PizzaStore\\BlazingPizza.ComponentsLibrary\\wwwroot\\localStorage.js",
       "PackagePath": "staticwebassets\\localStorage.js"
     },
     {
-      "Id": "C:\\Users\\janne\\Visual Studio\\BlazorWorkshop\\save-points\\00-get-started\\BlazingPizza.ComponentsLibrary\\wwwroot\\pushNotifications.js",
+      "Id": "C:\\Users\\janne\\Visual Studio\\PizzaStore\\BlazingPizza.ComponentsLibrary\\wwwroot\\pushNotifications.js",
       "PackagePath": "staticwebassets\\pushNotifications.js"
     },
     {

@@ -550,17 +550,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\janne\\Visual Studio\\BlazorWorkshop\\save-points\\00-get-started\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\janne\\Visual Studio\\PizzaStore\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj",
       "projectName": "BlazingPizza.ComponentsLibrary",
-      "projectPath": "C:\\Users\\janne\\Visual Studio\\BlazorWorkshop\\save-points\\00-get-started\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj",
+      "projectPath": "C:\\Users\\janne\\Visual Studio\\PizzaStore\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj",
       "packagesPath": "C:\\Users\\janne\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\janne\\Visual Studio\\BlazorWorkshop\\save-points\\00-get-started\\BlazingPizza.ComponentsLibrary\\obj\\",
+      "outputPath": "C:\\Users\\janne\\Visual Studio\\PizzaStore\\BlazingPizza.ComponentsLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\janne\\Visual Studio\\BlazorWorkshop\\NuGet.Config",
+        "C:\\Users\\janne\\Visual Studio\\PizzaStore\\NuGet.Config",
         "C:\\Users\\janne\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

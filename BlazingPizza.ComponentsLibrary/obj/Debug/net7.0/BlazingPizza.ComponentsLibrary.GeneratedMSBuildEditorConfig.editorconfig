@@ -9,15 +9,15 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = BlazingPizza.ComponentsLibrary
 build_property.RootNamespace = BlazingPizza.ComponentsLibrary
-build_property.ProjectDir = C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\
+build_property.ProjectDir = C:\Users\janne\Visual Studio\PizzaStore\BlazingPizza.ComponentsLibrary\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\janne\Visual Studio\BlazorWorkshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary
+build_property.MSBuildProjectDirectory = C:\Users\janne\Visual Studio\PizzaStore\BlazingPizza.ComponentsLibrary
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/janne/Visual Studio/BlazorWorkshop/save-points/00-get-started/BlazingPizza.ComponentsLibrary/Map/Map.razor]
+[C:/Users/janne/Visual Studio/PizzaStore/BlazingPizza.ComponentsLibrary/Map/Map.razor]
 build_metadata.AdditionalFiles.TargetPath = TWFwXE1hcC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

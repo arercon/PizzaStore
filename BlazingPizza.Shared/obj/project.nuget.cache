@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QvxZUSqPlKM=",
+  "dgSpecHash": "gWxmCRcQptI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\janne\\Visual Studio\\BlazorWorkshop\\save-points\\00-get-started\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj",
+  "projectFilePath": "C:\\Users\\janne\\Visual Studio\\PizzaStore\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\janne\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.0\\microsoft.aspnetcore.authorization.7.0.0.nupkg.sha512",
     "C:\\Users\\janne\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.0\\microsoft.aspnetcore.components.7.0.0.nupkg.sha512",
