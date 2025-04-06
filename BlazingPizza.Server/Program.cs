@@ -11,7 +11,8 @@ builder.Services.AddControllersWithViews()
 builder.Services.AddRazorPages();
 
 builder.Services.AddDbContext<PizzaStoreContext>(options =>
-        options.UseSqlite("Data Source=pizza.db"));
+        options.UseSqlite("Data Source=pizza.db")
+        .UseModel(BlazingPizza.Server.Models.PizzaStoreContextModel.Instance));
 
 builder.Services.AddDefaultIdentity<PizzaStoreUser>(options => options.SignIn.RequireConfirmedAccount = true)
         .AddEntityFrameworkStores<PizzaStoreContext>();
@@ -23,6 +24,7 @@ builder.Services.AddAuthentication()
         .AddIdentityServerJwt();
 
 var app = builder.Build();
+
 
 // Initialize the database
 var scopeFactory = app.Services.GetRequiredService<IServiceScopeFactory>();
