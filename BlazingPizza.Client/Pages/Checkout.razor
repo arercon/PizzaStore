@@ -1,5 +1,5 @@
 ﻿@page "/checkout"
-@inject HttpClient HttpClient
+@inject OrdersClient OrdersClient
 @inject OrderState OrderState
 @inject NavigationManager NavigationManager
 
@@ -32,14 +32,17 @@
 
     async Task PlaceOrder()
     {
-        if (isSubmitting == false)
+        isSubmitting = true;
+
+        try
         {
-            isSubmitting = true;
-            var response = await HttpClient.PostAsJsonAsync("orders", OrderState.Order);
-            var newOrderId = await response.Content.ReadFromJsonAsync<int>();
+            var newOrderId = await OrdersClient.PlaceOrderAsync(OrderState.Order);
             OrderState.ResetOrder();
-            isSubmitting = false;
             NavigationManager.NavigateTo($"myorders/{newOrderId}");
+        }
+        catch (AccessTokenNotAvailableException ex)
+        {
+            ex.Redirect();
         }
     }
 }

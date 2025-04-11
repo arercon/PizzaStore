@@ -1,5 +1,5 @@
 ﻿@page "/myorders"
-@inject HttpClient HttpClient
+@inject OrdersClient OrdersClient
 
 <PageTitle>Blazing Pizza - Meine Bestellungen</PageTitle>
 
@@ -46,6 +46,13 @@
 
     protected override async Task OnParametersSetAsync()
     {
-        ordersWithStatus = await HttpClient.GetFromJsonAsync<List<OrderWithStatus>>("orders");
+        try
+        {
+            ordersWithStatus = await OrdersClient.GetOrdersAsync();
+        }
+        catch (AccessTokenNotAvailableException ex)
+        {
+            ex.Redirect();
+        }
     }
 }
