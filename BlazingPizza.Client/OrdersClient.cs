@@ -1,4 +1,5 @@
 ﻿using System.Net.Http.Json;
+using System.Text.Json;
 
 namespace BlazingPizza.Client
 {
@@ -19,6 +20,7 @@ namespace BlazingPizza.Client
 
         public async Task<int> PlaceOrderAsync(Order order)
         {
+            Console.WriteLine($"Order: {JsonSerializer.Serialize(order)}");
             var response = await httpClient.PostAsJsonAsync("orders", order, OrderContext.Default.Order);
             response.EnsureSuccessStatusCode();
             var orderId = await response.Content.ReadFromJsonAsync<int>();

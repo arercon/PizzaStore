@@ -1,4 +1,8 @@
-﻿using System.Security.Claims;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Security.Claims;
+using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -21,7 +25,7 @@ public class OrdersController : Controller
     public async Task<ActionResult<List<OrderWithStatus>>> GetOrders()
     {
         var orders = await _db.Orders
-                // .Where(o => o.UserId == PizzaApiExtensions.GetUserId(HttpContext))
+                .Where(o => o.UserId == PizzaApiExtensions.GetUserId(HttpContext))
                 .Include(o => o.DeliveryLocation)
                 .Include(o => o.Pizzas).ThenInclude(p => p.Special)
                 .Include(o => o.Pizzas).ThenInclude(p => p.Toppings).ThenInclude(t => t.Topping)
@@ -36,7 +40,7 @@ public class OrdersController : Controller
     {
         var order = await _db.Orders
                 .Where(o => o.OrderId == orderId)
-                // .Where(o => o.UserId == PizzaApiExtensions.GetUserId(HttpContext))
+                .Where(o => o.UserId == PizzaApiExtensions.GetUserId(HttpContext))
                 .Include(o => o.DeliveryLocation)
                 .Include(o => o.Pizzas).ThenInclude(p => p.Special)
                 .Include(o => o.Pizzas).ThenInclude(p => p.Toppings).ThenInclude(t => t.Topping)
@@ -53,10 +57,9 @@ public class OrdersController : Controller
     [HttpPost]
     public async Task<ActionResult<int>> PlaceOrder(Order order)
     {
-        await Task.Delay(5000);
         order.CreatedTime = DateTime.Now;
         order.DeliveryLocation = new LatLong(51.5001, -0.1239);
-        //order.UserId = PizzaApiExtensions.GetUserId(HttpContext);
+        order.UserId = PizzaApiExtensions.GetUserId(HttpContext);
 
         // Enforce existence of Pizza.SpecialId and Topping.ToppingId
         // in the database - prevent the submitter from making up

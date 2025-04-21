@@ -15,13 +15,6 @@
 </div>
 
 <div class="form-field">
-    <label>Anmerkung:</label>
-    <div>
-        <input @bind="Address.Anmerkung" />
-    </div>
-</div>
-
-<div class="form-field">
     <label>Stadt:</label>
     <div>
         <InputText @bind-Value="Address.City" />
@@ -34,6 +27,13 @@
     <div>
         <InputText @bind-Value="Address.PostalCode" />
         <ValidationMessage For="@(() => Address.PostalCode)" />
+    </div>
+</div>
+
+<div class="form-field">
+    <label>Anmerkung:</label>
+    <div>
+        <input @bind="Address.Anmerkung" />
     </div>
 </div>
 

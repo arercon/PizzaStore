@@ -10,10 +10,12 @@
         <div>Gönn dir Pizza</div>
     </NavLink>
 
-    <NavLink href="myorders" class="nav-tab">
-        <img src="/img/bike.svg"/>
-        <div>Meine Bestellungen</div>
-    </NavLink>
+    <AuthorizeView>
+        <NavLink href="myorders" class="nav-tab">
+            <img src="/img/bike.svg" />
+            <div>Meine Bestellungen</div>
+        </NavLink>
+    </AuthorizeView>
 
     <LoginDisplay />
 </div>
