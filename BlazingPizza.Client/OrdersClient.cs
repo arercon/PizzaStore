@@ -1,30 +1,29 @@
 ﻿using System.Net.Http.Json;
 using System.Text.Json;
 
-namespace BlazingPizza.Client
+namespace BlazingPizza.Client;
+
+public class OrdersClient
 {
-    public class OrdersClient
+    private readonly HttpClient httpClient;
+
+    public OrdersClient(HttpClient httpClient)
     {
-        private readonly HttpClient httpClient;
+        this.httpClient = httpClient;
+    }
 
-        public OrdersClient(HttpClient httpClient)
-        {
-            this.httpClient = httpClient;
-        }
+    public async Task<IEnumerable<OrderWithStatus>> GetOrdersAsync() =>
+        await httpClient.GetFromJsonAsync("orders", OrderContext.Default.ListOrderWithStatus) ?? new();
 
-        public async Task<IEnumerable<OrderWithStatus>> GetOrdersAsync() =>
-            await httpClient.GetFromJsonAsync("orders", OrderContext.Default.ListOrderWithStatus) ?? new();
+    public async Task<OrderWithStatus> GetOrderAsync(int orderId) =>
+        await httpClient.GetFromJsonAsync($"orders/{orderId}", OrderContext.Default.OrderWithStatus) ?? new();
 
-        public async Task<OrderWithStatus> GetOrderAsync(int orderId) =>
-            await httpClient.GetFromJsonAsync($"orders/{orderId}", OrderContext.Default.OrderWithStatus) ?? new();
-
-        public async Task<int> PlaceOrderAsync(Order order)
-        {
-            Console.WriteLine($"Order: {JsonSerializer.Serialize(order)}");
-            var response = await httpClient.PostAsJsonAsync("orders", order, OrderContext.Default.Order);
-            response.EnsureSuccessStatusCode();
-            var orderId = await response.Content.ReadFromJsonAsync<int>();
-            return orderId;
-        }
+    public async Task<int> PlaceOrderAsync(Order order)
+    {
+        Console.WriteLine($"Order: {JsonSerializer.Serialize(order)}");
+        var response = await httpClient.PostAsJsonAsync("orders", order, OrderContext.Default.Order);
+        response.EnsureSuccessStatusCode();
+        var orderId = await response.Content.ReadFromJsonAsync<int>();
+        return orderId;
     }
 }

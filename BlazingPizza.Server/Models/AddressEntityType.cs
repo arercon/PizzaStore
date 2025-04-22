@@ -25,28 +25,6 @@ namespace BlazingPizza.Server.Models
                 valueGenerated: ValueGenerated.OnAdd,
                 afterSaveBehavior: PropertySaveBehavior.Throw);
 
-            var city = runtimeEntityType.AddProperty(
-                "City",
-                typeof(string),
-                propertyInfo: typeof(Address).GetProperty("City", BindingFlags.Public | BindingFlags.Instance | BindingFlags.DeclaredOnly),
-                fieldInfo: typeof(Address).GetField("<City>k__BackingField", BindingFlags.NonPublic | BindingFlags.Instance | BindingFlags.DeclaredOnly),
-                maxLength: 50);
-
-            var line1 = runtimeEntityType.AddProperty(
-                "Line1",
-                typeof(string),
-                propertyInfo: typeof(Address).GetProperty("Line1", BindingFlags.Public | BindingFlags.Instance | BindingFlags.DeclaredOnly),
-                fieldInfo: typeof(Address).GetField("<Line1>k__BackingField", BindingFlags.NonPublic | BindingFlags.Instance | BindingFlags.DeclaredOnly),
-                maxLength: 100);
-
-            var line2 = runtimeEntityType.AddProperty(
-                "Line2",
-                typeof(string),
-                propertyInfo: typeof(Address).GetProperty("Line2", BindingFlags.Public | BindingFlags.Instance | BindingFlags.DeclaredOnly),
-                fieldInfo: typeof(Address).GetField("<Line2>k__BackingField", BindingFlags.NonPublic | BindingFlags.Instance | BindingFlags.DeclaredOnly),
-                nullable: true,
-                maxLength: 100);
-
             var name = runtimeEntityType.AddProperty(
                 "Name",
                 typeof(string),
@@ -54,19 +32,34 @@ namespace BlazingPizza.Server.Models
                 fieldInfo: typeof(Address).GetField("<Name>k__BackingField", BindingFlags.NonPublic | BindingFlags.Instance | BindingFlags.DeclaredOnly),
                 maxLength: 100);
 
-            var postalCode = runtimeEntityType.AddProperty(
-                "PostalCode",
+            var straße = runtimeEntityType.AddProperty(
+                "Straße",
                 typeof(string),
-                propertyInfo: typeof(Address).GetProperty("PostalCode", BindingFlags.Public | BindingFlags.Instance | BindingFlags.DeclaredOnly),
-                fieldInfo: typeof(Address).GetField("<PostalCode>k__BackingField", BindingFlags.NonPublic | BindingFlags.Instance | BindingFlags.DeclaredOnly),
+                propertyInfo: typeof(Address).GetProperty("Straße", BindingFlags.Public | BindingFlags.Instance | BindingFlags.DeclaredOnly),
+                fieldInfo: typeof(Address).GetField("<Straße>k__BackingField", BindingFlags.NonPublic | BindingFlags.Instance | BindingFlags.DeclaredOnly),
+                maxLength: 100);
+
+            var stadt = runtimeEntityType.AddProperty(
+                "Stadt",
+                typeof(string),
+                propertyInfo: typeof(Address).GetProperty("Stadt", BindingFlags.Public | BindingFlags.Instance | BindingFlags.DeclaredOnly),
+                fieldInfo: typeof(Address).GetField("<Stadt>k__BackingField", BindingFlags.NonPublic | BindingFlags.Instance | BindingFlags.DeclaredOnly),
+                maxLength: 50);
+
+            var plz = runtimeEntityType.AddProperty(
+                "PLZ",
+                typeof(string),
+                propertyInfo: typeof(Address).GetProperty("PLZ", BindingFlags.Public | BindingFlags.Instance | BindingFlags.DeclaredOnly),
+                fieldInfo: typeof(Address).GetField("<PLZ>k__BackingField", BindingFlags.NonPublic | BindingFlags.Instance | BindingFlags.DeclaredOnly),
                 maxLength: 20);
 
-            var region = runtimeEntityType.AddProperty(
-                "Region",
+            var anmerkung = runtimeEntityType.AddProperty(
+                "Anmerkung",
                 typeof(string),
-                propertyInfo: typeof(Address).GetProperty("Region", BindingFlags.Public | BindingFlags.Instance | BindingFlags.DeclaredOnly),
-                fieldInfo: typeof(Address).GetField("<Region>k__BackingField", BindingFlags.NonPublic | BindingFlags.Instance | BindingFlags.DeclaredOnly),
-                maxLength: 20);
+                propertyInfo: typeof(Address).GetProperty("Anmerkung", BindingFlags.Public | BindingFlags.Instance | BindingFlags.DeclaredOnly),
+                fieldInfo: typeof(Address).GetField("<Anmerkung>k__BackingField", BindingFlags.NonPublic | BindingFlags.Instance | BindingFlags.DeclaredOnly),
+                nullable: true,
+                maxLength: 100);
 
             var key = runtimeEntityType.AddKey(
                 new[] { id });
