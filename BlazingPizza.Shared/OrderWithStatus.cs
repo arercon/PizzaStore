@@ -1,8 +1,7 @@
 ﻿using System.Text.Json.Serialization;
 using BlazingPizza.ComponentsLibrary.Map;
 
-
-namespace BlazingPizza;
+namespace BlazingPizza.Shared;
 
 public class OrderWithStatus
 {
@@ -15,7 +14,7 @@ public class OrderWithStatus
     // Set from Order
     public string StatusText { get; set; } = null!;
 
-    public bool IsDelivered => StatusText == "Ausgeliefert";
+    public bool IsDelivered => StatusText == "Delivered";
 
     public List<Marker> MapMarkers { get; set; } = null!;
 
@@ -30,7 +29,7 @@ public class OrderWithStatus
 
         if (DateTime.Now < dispatchTime)
         {
-            statusText = "Wird zubereitet";
+            statusText = "Preparing";
             mapMarkers = new List<Marker>
                                 {
                                         ToMapMarker("You", order.DeliveryLocation, showPopup: true)
@@ -38,7 +37,7 @@ public class OrderWithStatus
         }
         else if (DateTime.Now < dispatchTime + DeliveryDuration)
         {
-            statusText = "Bereit zur Auslieferung";
+            statusText = "Out for delivery";
 
             var startPosition = ComputeStartPosition(order);
             var proportionOfDeliveryCompleted = Math.Min(1, (DateTime.Now - dispatchTime).TotalMilliseconds / DeliveryDuration.TotalMilliseconds);
@@ -51,10 +50,10 @@ public class OrderWithStatus
         }
         else
         {
-            statusText = "Ausgeliefert";
+            statusText = "Delivered";
             mapMarkers = new List<Marker>
                                 {
-                                        ToMapMarker("Ausgeliefert nach", order.DeliveryLocation, showPopup: true),
+                                        ToMapMarker("Delivery location", order.DeliveryLocation, showPopup: true),
                                 };
         }
 

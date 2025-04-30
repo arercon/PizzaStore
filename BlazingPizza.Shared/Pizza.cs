@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace BlazingPizza;
+namespace BlazingPizza.Shared;
 
 /// <summary>
 ///    /// Represents a customized pizza as part of an order

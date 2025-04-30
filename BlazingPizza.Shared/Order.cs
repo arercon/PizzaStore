@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace BlazingPizza;
+namespace BlazingPizza.Shared;
 
 public class Order
 {

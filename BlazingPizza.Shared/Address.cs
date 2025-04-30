@@ -1,21 +1,26 @@
-﻿namespace BlazingPizza;
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace BlazingPizza.Shared;
 
 public class Address
 {
     public int Id { get; set; }
-
-    [Required(ErrorMessage = "Wie heißt du?"), MaxLength(100)]
+		
+		[Required, MaxLength(100)]
     public string Name { get; set; } = string.Empty;
 
-    [Required(ErrorMessage = "Straßenname und Hausnummer werden benötigt."), MaxLength(100)]
-    public string Straße { get; set; } = string.Empty;
+		[Required, MaxLength(100)]
+    public string Line1 { get; set; } = string.Empty;
 
-    [Required(ErrorMessage = "Bitte nenne uns deine Stadt."), MaxLength(50)]
-    public string Stadt { get; set; } = string.Empty;
+		[MaxLength(100)]
+    public string Line2 { get; set; } = string.Empty;
 
-    [Required, MaxLength(20)]
-    public string PLZ { get; set; } = string.Empty;
+		[Required(ErrorMessage = "We need to know which city to deliver to"),  MaxLength(50)]
+    public string City { get; set; } = string.Empty;
 
-    [MaxLength(100)]
-    public string Anmerkung { get; set; } = string.Empty;
+		[Required, MaxLength(20)]
+    public string Region { get; set; } = string.Empty;
+
+		[Required, MaxLength(20)]
+    public string PostalCode { get; set; } = string.Empty;
 }
